@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # Halo semua! 
 
 Perkenalkan nama saya **Muhammad Atsal Rizandri**.\
-Saya seorang **Mobile Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab mengembangkan Aplikasi Mobile Android dengan dibekali [sertifikasi dari Bangkit Academy](https://developers.google.com/certification/associate-android-developer?hl=id).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/3223355) sejak 2024.\
+Saya seorang mahasiswa di Institut Teknologi Telkom Purwokerto
+Dan saat ini, saya sedang mengikuti Program MBKM dari Bangkit Academy dengan Learning Path Mobile Android
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/atsal-rizandri/) ku ya.
