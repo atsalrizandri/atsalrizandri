@@ -1,4 +1,4 @@
-## Hi there, I'm [Atsal Rizandri]! 👋
+## Hi there, I'm Atsal Rizandri! 👋
 
 ### 🚀 About Me
 <!--
